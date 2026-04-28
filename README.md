@@ -4,9 +4,8 @@ The project consists of a game with various quizzes.
 
 
 ## Screenshots
+<img width="712" height="532" alt="ScreenShot Tool -20260428152230" src="https://github.com/user-attachments/assets/f792ee8a-d9c2-466d-aff4-6726e28b68e4" />
 
-![App Screenshot](<img width="632" height="460" alt="image" src="https://github.com/user-attachments/assets/227d6507-6a36-4725-ac6e-8e203f82dfa8" />
-)
 
 
 ## Features
