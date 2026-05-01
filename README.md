@@ -79,3 +79,6 @@ project-name/
 Your Name - Collins Wachira - collinswachira2004@gmail.com
 
 Project Link: [https://quiz-game-nine-gray.vercel.app/](https://github.com/kingcollinsdev/quiz-game.git)
+
+## Acknowledgements
+Inspiration :- https://www.youtube.com/watch?v=kAiX0itnonM&t=13648s
